@@ -1,9 +1,10 @@
 # Threat Research Reporting
 This project's intended purpose is to provide a list of resources that provide up-to-date threat research from across the Internet.
 
-|Resource|Navigation|
-|---|---|
-|[Anomali](https://www.anomali.com/blog)|Blog|
+|Resource|Navigation|Notes|
+|---|---|---|
+|[Anomali](https://www.anomali.com/blog)|Blog|Cyber Watch articles consolidate threat research from a variety of sources|
+|[Anomali](https://www.anomali.com/blog)|Blog > Browse Topic > Research|First party research|
 |[Check Point](https://research.checkpoint.com/category/threat-research/)|Publications > Threat Research|
 |[CISA](https://us-cert.cisa.gov/ncas/alerts)|Alerts and Tips > View Alerts|
 |[Cybereason](https://www.cybereason.com/resources/threat-alerts)|Resources > Threat Alerts|
