@@ -7,6 +7,7 @@ This project's intended purpose is to provide a list of resources that provide u
 |[Anomali](https://www.anomali.com/blog)|First party research|
 |[Check Point](https://research.checkpoint.com/category/threat-research/)||
 |[CISA](https://us-cert.cisa.gov/ncas/alerts)||
+|[Crowdstrike](https://www.crowdstrike.com/blog/category/threat-intel-research/)||
 |[Cybereason](https://www.cybereason.com/resources/threat-alerts)||
 |[Digital Shadows](https://www.digitalshadows.com/blog-and-research/)||
 |[FireEye](https://www.fireeye.com/blog/threat-research.html)||
