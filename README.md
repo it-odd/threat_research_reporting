@@ -16,6 +16,7 @@ This project's intended purpose is to provide a list of resources that provide u
 |[Juniper](https://threatlabs.juniper.net/home/#/)||
 |[Malware Traffic Analysis](https://www.malware-traffic-analysis.net/index.html)||
 |[McAfee](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/)||
+|[Microsoft](https://www.microsoft.com/security/blog/microsoft-security-intelligence/)||
 |[Netskope](https://www.netskope.com/blog/category/netskope-threat-labs)||
 |[Palo Alto](https://unit42.paloaltonetworks.com/tag/threat-assessment/)||
 |[Recorded Future](https://www.recordedfuture.com/category/research/)||
