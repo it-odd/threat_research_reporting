@@ -5,11 +5,13 @@ This project's intended purpose is to provide a list of resources that provide u
 |---|---|
 |[Anomali](https://www.anomali.com/blog)|Cyber Watch articles consolidate threat research from a variety of sources|
 |[Anomali](https://www.anomali.com/blog)|First party research|
+|[BlackBerry](https://blogs.blackberry.com/en/category/research-and-intelligence)|
 |[Check Point](https://research.checkpoint.com/category/threat-research/)||
 |[CISA](https://us-cert.cisa.gov/ncas/alerts)||
 |[Crowdstrike](https://www.crowdstrike.com/blog/category/threat-intel-research/)||
 |[Cybereason](https://www.cybereason.com/resources/threat-alerts)||
 |[Digital Shadows](https://www.digitalshadows.com/blog-and-research/)||
+|[ESET](https://www.welivesecurity.com/author/esetresearch/)||
 |[FireEye](https://www.fireeye.com/blog/threat-research.html)||
 |[Fortinet](https://www.fortinet.com/blog/threat-research)||
 |[IBM](https://securityintelligence.com/category/x-force/)||
@@ -23,4 +25,6 @@ This project's intended purpose is to provide a list of resources that provide u
 |[Red Canary](https://redcanary.com/blog/?topic=detection-response)||
 |[SANS ISC](https://isc.sans.edu/)||
 |[Securonix](https://www.securonix.com/resource-type/threat-research/)||
+|[SentinelOne](https://www.sentinelone.com/blog/category/security-research/)||
+|[Trustwave](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/)||
 |[Zscaler](https://www.zscaler.com/blogs/security-research)||
