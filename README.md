@@ -24,7 +24,7 @@ This project's intended purpose is to provide a list of resources that provide u
 |[Recorded Future](https://www.recordedfuture.com/blog)||
 |[Red Canary](https://redcanary.com/blog/?topic=detection-response)||
 |[SANS ISC](https://isc.sans.edu/)||
-|[Securonix](https://www.securonix.com/resource-type/threat-research/)||
+|[Securonix](https://www.securonix.com/analyst-resources/resources-by-topic/threat-research/)||
 |[SentinelOne](https://www.sentinelone.com/blog/category/security-research/)||
 |[Trustwave](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/)||
 |[Zscaler](https://www.zscaler.com/blogs/security-research)||
