@@ -3,8 +3,8 @@ This project's intended purpose is to provide a list of resources that provide u
 
 |Resource|Notes|
 |---|---|
-|[Anomali](https://www.anomali.com/blog)|Cyber Watch articles consolidate threat research from a variety of sources|
-|[Anomali](https://www.anomali.com/blog)|First party research|
+|[Anomali](https://www.anomali.com/blog/category/anomali-cyber-watch)|Cyber Watch articles consolidate threat research from a variety of sources|
+|[Anomali](https://www.anomali.com/blog/category/research)|First party research|
 |[BlackBerry](https://blogs.blackberry.com/en/category/research-and-intelligence)|
 |[Check Point](https://research.checkpoint.com/category/threat-research/)||
 |[CISA](https://us-cert.cisa.gov/ncas/alerts)||
