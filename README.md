@@ -9,7 +9,7 @@ This project's intended purpose is to provide a list of resources that provide u
 |[Check Point](https://research.checkpoint.com/category/threat-research/)||
 |[CISA](https://us-cert.cisa.gov/ncas/alerts)||
 |[Crowdstrike](https://www.crowdstrike.com/blog/category/threat-intel-research/)||
-|[Cybereason](https://www.cybereason.com/resources/threat-alerts)||
+|[Cybereason](https://www.cybereason.com/company/nocturnus)||
 |[Digital Shadows](https://www.digitalshadows.com/blog-and-research/)||
 |[ESET](https://www.welivesecurity.com/author/esetresearch/)||
 |[FireEye](https://www.fireeye.com/blog/threat-research.html)||
