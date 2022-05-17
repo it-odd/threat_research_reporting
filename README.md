@@ -21,7 +21,7 @@ This project's intended purpose is to provide a list of resources that provide u
 |[Microsoft](https://www.microsoft.com/security/blog/microsoft-security-intelligence/)||
 |[Netskope](https://www.netskope.com/blog/category/netskope-threat-labs)||
 |[Palo Alto](https://unit42.paloaltonetworks.com/tag/threat-assessment/)||
-|[Recorded Future](https://www.recordedfuture.com/category/research/)||
+|[Recorded Future](https://www.recordedfuture.com/blog)||
 |[Red Canary](https://redcanary.com/blog/?topic=detection-response)||
 |[SANS ISC](https://isc.sans.edu/)||
 |[Securonix](https://www.securonix.com/resource-type/threat-research/)||
